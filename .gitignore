@@ -231,3 +231,7 @@ matlab*
 # log data (should be ignored)
 *.log
 *.csv
+
+
+# vscode 
+.vscode
